@@ -28,13 +28,10 @@ Superior Electrode Performance: The study found Aluminum to be the most effectiv
 
 Process Optimization: The research demonstrated that increasing the current density led to a higher rate of reaction and improved harvesting efficiency. It also showed that a reduction in electrocoagulation cost could be achieved by operating at a lower current density, balancing efficiency and economic viability.
 
-Quantitative Data-Driven Conclusion: The project successfully used quantitative data—specific dimensions, current densities, time intervals, and calculated emissions—to support its conclusions regarding electrode material effectiveness and process optimization, showcasing a strong foundation in scientific method and data analysis.
+Quantitative Data-Driven Conclusion: The project successfully used quantitative data—specific dimensions, current densities, time intervals, and calculated emissions—to support its conclusions regarding electrode material effectiveness and process[OpenLCA_Algae.docx](https://github.com/user-attachments/files/21565581/OpenLCA_Algae.docx)
+ optimization, showcasing a strong foundation in scientific method and data analysis.
 
 [Algae Research Paper- Final.docx](https://github.com/user-attachments/files/21565572/Algae.Research.Paper-.Final.docx)
 [Algae_Electrocoagulation_Graphs.xlsx](https://github.com/user-attachments/files/21565574/Algae_Electrocoagulation_Graphs.xlsx)
-[OpenLCA_Algae.docx](https://githu![WhatsApp Image 2024-01-08 at 12 49 40_25cd1dc0](https://github.com/user-attachments/assets/40ae005f-322f-4653-aeab-3a413e7e8b8d)
-![WhatsApp Image 2024-01-02 at 20 07 19_3463cab8](https://github.com/user-attachments/assets/d13f4435-3f7a-4754-a773-d5928fd9e9b9)
-![IMG-20231227-WA0002](https://github.com/user-attachments/assets/98b1f5f5-a744-48af-be96-f4175a6d974e)
-![IMG-20231227-WA0001](https://github.com/user-attachments/assets/3488cea3-59b9-43e6-8c34-971f486a5e28)
-b.com/user-attachments/files/21565576/OpenLCA_Algae.docx)
 
+[Uploading OpenLCA_Algae.docx…]()
