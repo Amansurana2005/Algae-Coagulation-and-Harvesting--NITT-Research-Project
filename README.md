@@ -1,0 +1,2 @@
+# Algae-Coagulation-and-Harvesting--NITT-Research-Project
+This project investigates the effectiveness of electrocoagulation and electrofloatation for microalgae harvesting. The research paper details the experimental setup, including the use of different electrode materials (Aluminum, Stainless Steel, Iron) and the optimization of parameters like current density and time to maximize harvesting efficiency.
